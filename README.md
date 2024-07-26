@@ -22,7 +22,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/MuratOfficial/url-shorted.git
 cd url-shortener
 ```
 
